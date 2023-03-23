@@ -1,0 +1,75 @@
+#mail{
+    text-shadow: 1px 1px 2px pink;
+}
+
+#mail:hover{
+    color: black;
+}
+
+.my-font-link:hover{
+    color: #e31818;
+}
+
+.text-color{
+    color: #ff4800;
+}
+.bg-color{
+    background-color: #ff4800;
+}
+.bg-color:hover{
+    background-color: #d93d00;
+}
+.my-nav-link{
+    font-weight: bold;
+}
+.my-nav-link:hover {
+    background-color: #ff4800;
+    color: white;
+}
+.banner-section {
+    background-image: url("../img/header.jpg");
+    height: 500px;
+}
+.form-card{
+    padding-top: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+}
+.b-color{
+    background-color: #ff4800;
+}
+
+.about{
+    background-color: red;
+}
+
+.my-message{
+    font-size: 25px;
+}
+
+.service-section{
+    background-image: url("../img/service.jpg");
+    height: 700px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+
+.service-card{
+    margin-top: 200px;
+    margin-left: 50px;
+    border: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.service-color{
+    color: #36040a;
+    text-shadow: 5px 3px 2px #98d764;
+    font-size: 50px;
+}
+
+.card-height{
+    height: 300px;
+}
